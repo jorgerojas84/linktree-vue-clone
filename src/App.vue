@@ -1,10 +1,5 @@
-<script setup>
-import NavMenu from '@/components/NavMenu.vue'
-</script>
-
 <template>
-  <div class="h-screen flex flex-col">
-    <NavMenu />
+  <div class="flex min-h-screen  flex-col">
     <RouterView />
   </div>
 </template>
