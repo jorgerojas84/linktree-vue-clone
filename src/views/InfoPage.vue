@@ -4,8 +4,8 @@ import { ref } from 'vue'
 const bio = ref({
   name: 'Jorge Rojas',
   avatar: 'https://api.dicebear.com/10.x/adventurer-neutral/svg?eyebrowsVariant=variant01,variant02,variant03,variant06,variant07,variant08,variant09,variant10,variant11,variant12,variant13,variant14,variant15&eyesVariant=variant01,variant02,variant03,variant04,variant05,variant06,variant07,variant08,variant10,variant11,variant12,variant13,variant14,variant16,variant17,variant18,variant19,variant20,variant21,variant22,variant23,variant24,variant25&glassesVariant=variant02,variant04&mouthVariant=variant01,variant02,variant03,variant04,variant05,variant06,variant07,variant08,variant09,variant11,variant12,variant13,variant15,variant16,variant17,variant18,variant19,variant20,variant21,variant23,variant24,variant25,variant26,variant27,variant28,variant29,variant30&glassesProbability=59&glassesColor=&backgroundColor=f2d3b1&seed=Felix',
-  about: `I'm passionate about Cisco networking and I'm starting to get into Application web design.  I will be graduating in December with a bachelors in Computer Information Technologies.`,
-  skills: ['Vue.js', 'React', 'Typescript', 'Node.js', 'Tailwind CSS'],
+  about: `I'm passionate about Cisco Networking and have become more interested in Application Web Design. I enjoy building my development skills through projects and creating new apps.`,
+  skills: ['Cisco Networking', 'IT Support', 'Cybersecurity', 'Machine Learning', 'Python Automation'],
   email: 'jrojas_8653@stu.southtexascollege.edu',
   location: 'Weslaco, TX'
 })
